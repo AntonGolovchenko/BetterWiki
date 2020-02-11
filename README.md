@@ -1,0 +1,2 @@
+# BetterWiki
+Wiki test
